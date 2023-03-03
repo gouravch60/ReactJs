@@ -1,0 +1,43 @@
+{
+  "outlets": [
+    {
+      "id": 1,
+      "location": "WhiteField",
+      "city": "Banglore"
+    },
+    {
+      "id": 2,
+      "location": "Madhurawada",
+      "city": "Visakhapatnam"
+    },
+    {
+      "id": 3,
+      "location": "Kormangala",
+      "city": "Banglore"
+    }
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "name": "Rice",
+      "qty": 25,
+      "unit": "25 Kg Bag",
+      "outletId": 1
+    },
+    {
+      "id": 2,
+      "name": "Wheat",
+      "qty": 500,
+      "unit": "10 kg bag",
+      "outletId": 1
+    }
+  ],
+  "employee": [
+    {
+      "id": 1,
+      "name": "Gourav",
+      "department": "IT",
+      "salary": 20001
+    }
+  ]
+}
